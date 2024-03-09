@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+ @apply font-myFont;
+ /* color: white; */
+}
+:root{
+ background-color:#011B39;
+}
